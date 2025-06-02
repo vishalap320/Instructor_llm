@@ -56,7 +56,8 @@ git clone https://github.com/vishal320/LLMStructured_output1.git
 cd LLMStructured_output1
 ```
 Install dependencies:
-``python
+
+```python
 pip install instructor pydantic python-dotenv
 ```
 Add your Groq API key in .env as described above.
