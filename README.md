@@ -41,7 +41,12 @@ You are building an NLP pipeline for automatic information extraction and classi
 
 ## How to Run This Code
 Install dependencies:
-
+Make sure Python 3.10+ is installed on your system.
+You can check by running:
+```python
+python --version
+```
+If not installed, download it from: https://www.python.org/downloads/
 ```python
 pip install instructor pydantic python-dotenv
 ```
