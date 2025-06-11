@@ -47,6 +47,7 @@ You can check by running:
 python --version
 ```
 If not installed, download it from: https://www.python.org/downloads/
+You ahve to import packages & libraries
 ```python
 pip install instructor pydantic python-dotenv
 ```
